@@ -17,7 +17,7 @@
 
 1️⃣ Clone the repository:  
 ```sh
-git clone https://github.com/RohanCyberOps/web-sample-1.git
+git clone https://github.com/RohanCyberOps/ws1.git
 cd YourRepo
 ```
 
