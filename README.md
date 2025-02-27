@@ -2,53 +2,53 @@
 
 ---
 
-# 🌟 WS1
+#  WS1
 
-🚀 **WS1** is a modern web application built with **Vite, React, and TypeScript**. It offers a fast and efficient development experience with blazing-fast hot module replacement (HMR).  
+**WS1** is a modern web application built with **Vite, React, and TypeScript**. It offers a fast and efficient development experience with blazing-fast hot module replacement (HMR).  
 
-## 🛠️ Tech Stack  
+## 🛠 Tech Stack  
 
-- ⚡ **Vite** - Lightning-fast bundler  
-- ⚛ **React** - UI framework for building interactive UIs  
-- 🦺 **TypeScript** - Type-safe JavaScript  
-- 🎨 **Tailwind CSS (optional)** - Utility-first styling  
+-  **Vite** - Lightning-fast bundler  
+-  **React** - UI framework for building interactive UIs  
+-  **TypeScript** - Type-safe JavaScript  
+- **Tailwind CSS (optional)** - Utility-first styling  
 
-## 📦 Installation  
+##  Installation  
 
-1️⃣ Clone the repository:  
+1️ Clone the repository:  
 ```sh
 git clone https://github.com/RohanCyberOps/ws1.git
 cd YourRepo
 ```
 
-2️⃣ Install dependencies:  
+2️ Install dependencies:  
 ```sh
 npm install
 ```
 
-3️⃣ Start the development server:  
+3️ Start the development server:  
 ```sh
 npm run dev
 ```
 
-4️⃣ Open in the browser:  
+4️ Open in the browser:  
 Visit **`http://localhost:5173`**  
 
-## 🚀 Build for Production  
+##  Build for Production  
 
 ```sh
 npm run build
 npm run preview
 ```
 
-## 🛠️ Scripts  
+##  Scripts  
 
 - `npm run dev` - Start the development server  
 - `npm run build` - Build the app for production  
 - `npm run preview` - Preview the production build  
 - `npm run lint` - Run ESLint  
 
-## 🤝 Contributing  
+##  Contributing  
 
 Contributions are welcome! Follow these steps:  
 1. Fork the repo  
@@ -57,10 +57,10 @@ Contributions are welcome! Follow these steps:
 4. Push to the branch (`git push origin feature-name`)  
 5. Open a pull request  
 
-## 📜 License  
+##  License  
 
 This project is licensed under the **MIT License**.  
 
 ---  
 
-Would you like me to add anything specific? 🚀
+Would you like me to add anything specific? 
