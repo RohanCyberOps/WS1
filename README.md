@@ -6,7 +6,7 @@
 
 **WS1** is a modern web application built with **Vite, React, and TypeScript**. It offers a fast and efficient development experience with blazing-fast hot module replacement (HMR).  
 
-## 🛠 Tech Stack  
+##  Tech Stack  
 
 -  **Vite** - Lightning-fast bundler  
 -  **React** - UI framework for building interactive UIs  
